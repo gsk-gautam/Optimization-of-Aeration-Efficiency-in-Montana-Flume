@@ -70,12 +70,12 @@ f = 1 + 0.02103(T - 20) + 8.261 × 10⁻⁵(T - 20)²
 │   ├── raw_measurements.csv
 │   ├── preprocessed_data.csv
 ├── 🧠 models/
-│   ├── linear_regression.py
-│   ├── random_forest.py
-│   ├── neural_networks.py
+│   ├── linear_regression
+│   ├── random_forest
+│   ├── neural_networks
 ├── 📈 results/
-│   ├── evaluation_metrics.csv
-│   ├── correlation_graphs.png
+│   ├── evaluation_metrics
+│   ├── correlation_graphs
 ├── 📄 submission_report.pdf
 ```
 
