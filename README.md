@@ -6,6 +6,9 @@ This project investigates **aeration efficiency** in Montana flumes using both e
 
 The objective is to analyze how geometric parameters, flow conditions, and setup positions influence aeration, and to develop predictive models for estimating aeration efficiency.
 
+![image](https://github.com/user-attachments/assets/4f7d92c4-b750-4f5e-9c5f-2e0019ebf8ff)
+
+
 ## 🧪 Experimental Setup
 
 The experiment involves:
